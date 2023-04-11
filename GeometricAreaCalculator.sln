@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricAreaCalculatorLibrary", "GeometricAreaCalculatorLibrary\GeometricAreaCalculatorLibrary.csproj", "{CE1E3AE8-5DE1-4D9E-9017-9B148CA6CCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricCalculationsTest", "GeometricCalculationsTest\GeometricCalculationsTest.csproj", "{55A6B19B-C672-4BD8-AE9E-70BA67B48BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateGeometricArea", "CalculateGeometricArea\CalculateGeometricArea.csproj", "{FBDD6EF7-9419-4CF9-8BD1-1DB0C196113B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1E3AE8-5DE1-4D9E-9017-9B148CA6CCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1E3AE8-5DE1-4D9E-9017-9B148CA6CCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1E3AE8-5DE1-4D9E-9017-9B148CA6CCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1E3AE8-5DE1-4D9E-9017-9B148CA6CCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A6B19B-C672-4BD8-AE9E-70BA67B48BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A6B19B-C672-4BD8-AE9E-70BA67B48BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A6B19B-C672-4BD8-AE9E-70BA67B48BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A6B19B-C672-4BD8-AE9E-70BA67B48BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDD6EF7-9419-4CF9-8BD1-1DB0C196113B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDD6EF7-9419-4CF9-8BD1-1DB0C196113B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDD6EF7-9419-4CF9-8BD1-1DB0C196113B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDD6EF7-9419-4CF9-8BD1-1DB0C196113B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5409C75-7A36-400B-9439-6F7007C0ED6A}
+	EndGlobalSection
+EndGlobal
